@@ -9,6 +9,7 @@
   "author": "newtonry",
   "license": "ISC",
   "dependencies": {
+    "lodash": "~3.3.1",
     "react-native-drillable-object-view": "0.1.4"
   }
 }
